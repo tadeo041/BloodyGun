@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Power_ups",
-    "path": "folders/Sprites/Power_ups.yy",
+    "name": "Armadura especial",
+    "path": "folders/Sprites/Power_ups/Armadura especial.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -21,6 +21,9 @@
     {"name":"Enemigos","order":2,"path":"folders/Sprites/Enemigos.yy",},
     {"name":"Zombie","order":4,"path":"folders/Sprites/Enemigos/Zombie.yy",},
     {"name":"Power_ups","order":3,"path":"folders/Sprites/Power_ups.yy",},
+    {"name":"Armadura especial","order":2,"path":"folders/Sprites/Power_ups/Armadura especial.yy",},
+    {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
+    {"name":"Armadura","order":4,"path":"folders/Sprites/Power_ups/Armadura.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
@@ -36,6 +39,5 @@
     {"name":"spr_Player_DCH","order":2,"path":"sprites/spr_Player_DCH/spr_Player_DCH.yy",},
     {"name":"spt_Zombie_NES","order":2,"path":"sprites/spt_Zombie_NES/spt_Zombie_NES.yy",},
     {"name":"spr_Player_IZQ","order":6,"path":"sprites/spr_Player_IZQ/spr_Player_IZQ.yy",},
-    {"name":"Obj_armadura_especial","order":1,"path":"sprites/Obj_armadura_especial/Obj_armadura_especial.yy",},
   ],
 }

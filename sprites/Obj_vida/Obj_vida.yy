@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Power_ups",
-    "path": "folders/Sprites/Power_ups.yy",
+    "name": "Vida",
+    "path": "folders/Sprites/Power_ups/Vida.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
