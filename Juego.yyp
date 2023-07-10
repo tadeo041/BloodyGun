@@ -57,6 +57,7 @@
     {"id":{"name":"spr_Player_DCH","path":"sprites/spr_Player_DCH/spr_Player_DCH.yy",},},
     {"id":{"name":"spt_Zombie_NES","path":"sprites/spt_Zombie_NES/spt_Zombie_NES.yy",},},
     {"id":{"name":"spr_Player_IZQ","path":"sprites/spr_Player_IZQ/spr_Player_IZQ.yy",},},
+    {"id":{"name":"Obj_armadura_especial","path":"sprites/Obj_armadura_especial/Obj_armadura_especial.yy",},},
     {"id":{"name":"spr_pistola","path":"sprites/spr_pistola/spr_pistola.yy",},},
     {"id":{"name":"spr_Zombie_Arriba","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
