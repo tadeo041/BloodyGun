@@ -22,8 +22,8 @@
     {"name":"Zombie","order":4,"path":"folders/Sprites/Enemigos/Zombie.yy",},
     {"name":"Power_ups","order":3,"path":"folders/Sprites/Power_ups.yy",},
     {"name":"Armadura especial","order":2,"path":"folders/Sprites/Power_ups/Armadura especial.yy",},
-    {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
     {"name":"Armadura","order":4,"path":"folders/Sprites/Power_ups/Armadura.yy",},
+    {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},

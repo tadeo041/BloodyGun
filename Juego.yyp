@@ -34,14 +34,14 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Power_ups","folderPath":"folders/Sprites/Power_ups.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Armadura especial","folderPath":"folders/Sprites/Power_ups/Armadura especial.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Vida","folderPath":"folders/Sprites/Power_ups/Vida.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Armadura","folderPath":"folders/Sprites/Power_ups/Armadura.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Vida","folderPath":"folders/Sprites/Power_ups/Vida.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.6.0.89",
   },
   "resources": [
     {"id":{"name":"spr_Player_RunNES","path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},},
