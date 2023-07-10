@@ -7,6 +7,7 @@
     {"name":"Líneas temporales","order":8,"path":"folders/Líneas temporales.yy",},
     {"name":"Notas","order":13,"path":"folders/Notas.yy",},
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Enemigos","order":2,"path":"folders/Objetos/Enemigos.yy",},
     {"name":"Player","order":1,"path":"folders/Objetos/Player.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Rutas","order":4,"path":"folders/Rutas.yy",},
@@ -19,7 +20,7 @@
     {"name":"Armas","order":1,"path":"folders/Sprites/Armas.yy",},
     {"name":"Enemigos","order":2,"path":"folders/Sprites/Enemigos.yy",},
     {"name":"Zombie","order":4,"path":"folders/Sprites/Enemigos/Zombie.yy",},
-    {"name":"Enemigos","order":2,"path":"folders/Objetos/Enemigos.yy",},
+    {"name":"Power_ups","order":3,"path":"folders/Sprites/Power_ups.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
