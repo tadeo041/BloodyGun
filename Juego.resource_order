@@ -18,6 +18,7 @@
     {"name":"Sonidos","order":3,"path":"folders/Sonidos.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Armas","order":1,"path":"folders/Sprites/Armas.yy",},
+    {"name":"Cursor","order":5,"path":"folders/Sprites/Cursor.yy",},
     {"name":"Enemigos","order":2,"path":"folders/Sprites/Enemigos.yy",},
     {"name":"Zombie","order":4,"path":"folders/Sprites/Enemigos/Zombie.yy",},
     {"name":"Menu","order":4,"path":"folders/Sprites/Menu.yy",},
@@ -25,7 +26,7 @@
     {"name":"Armadura especial","order":2,"path":"folders/Sprites/Power_ups/Armadura especial.yy",},
     {"name":"Armadura","order":4,"path":"folders/Sprites/Power_ups/Armadura.yy",},
     {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
-    {"name":"Cursor","order":5,"path":"folders/Sprites/Cursor.yy",},
+    {"name":"Musica de fondo","order":1,"path":"folders/Sonidos/Musica de fondo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
@@ -42,5 +43,6 @@
     {"name":"spr_Player_DCH","order":2,"path":"sprites/spr_Player_DCH/spr_Player_DCH.yy",},
     {"name":"spt_Zombie_NES","order":2,"path":"sprites/spt_Zombie_NES/spt_Zombie_NES.yy",},
     {"name":"spr_Player_IZQ","order":6,"path":"sprites/spr_Player_IZQ/spr_Player_IZQ.yy",},
+    {"name":"Musica_2","order":1,"path":"sounds/Musica_2/Musica_2.yy",},
   ],
 }
