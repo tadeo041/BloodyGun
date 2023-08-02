@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_musicacreditos",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
-  ],
+  "name": "Obj_titulo",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Musica",
-    "path": "folders/Objetos/Musica.yy",
+    "name": "Salas",
+    "path": "folders/Salas.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sp_titulo",
+    "path": "sprites/sp_titulo/sp_titulo.yy",
+  },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

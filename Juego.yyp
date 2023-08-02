@@ -56,6 +56,7 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"sp_titulo","path":"sprites/sp_titulo/sp_titulo.yy",},},
     {"id":{"name":"Suptitulo","path":"fonts/Suptitulo/Suptitulo.yy",},},
     {"id":{"name":"spr_Player_RunNES","path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},},
     {"id":{"name":"spr_nombre_Cesar","path":"sprites/spr_nombre_Cesar/spr_nombre_Cesar.yy",},},
@@ -93,6 +94,7 @@
     {"id":{"name":"spr_opciones","path":"sprites/spr_opciones/spr_opciones.yy",},},
     {"id":{"name":"spt_Zombie_NES","path":"sprites/spt_Zombie_NES/spt_Zombie_NES.yy",},},
     {"id":{"name":"Titulo","path":"fonts/Titulo/Titulo.yy",},},
+    {"id":{"name":"Obj_titulo","path":"objects/Obj_titulo/Obj_titulo.yy",},},
     {"id":{"name":"spr_creditos","path":"sprites/spr_creditos/spr_creditos.yy",},},
     {"id":{"name":"scr_PlayerMovimiento","path":"scripts/scr_PlayerMovimiento/scr_PlayerMovimiento.yy",},},
     {"id":{"name":"spr_director","path":"sprites/spr_director/spr_director.yy",},},
