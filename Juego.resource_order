@@ -36,6 +36,7 @@
     {"name":"Armadura especial","order":2,"path":"folders/Sprites/Power_ups/Armadura especial.yy",},
     {"name":"Armadura","order":4,"path":"folders/Sprites/Power_ups/Armadura.yy",},
     {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
+    {"name":"Texto","order":6,"path":"folders/Objetos/Texto.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Suptitulo","order":1,"path":"fonts/Suptitulo/Suptitulo.yy",},
@@ -66,7 +67,7 @@
     {"name":"spr_opciones","order":2,"path":"sprites/spr_opciones/spr_opciones.yy",},
     {"name":"spt_Zombie_NES","order":2,"path":"sprites/spt_Zombie_NES/spt_Zombie_NES.yy",},
     {"name":"Titulo","order":2,"path":"fonts/Titulo/Titulo.yy",},
-    {"name":"Obj_titulo","order":4,"path":"objects/Obj_titulo/Obj_titulo.yy",},
+    {"name":"Obj_titulo","order":1,"path":"objects/Obj_titulo/Obj_titulo.yy",},
     {"name":"nivel1","order":3,"path":"rooms/nivel1/nivel1.yy",},
     {"name":"spr_Player_IZQ","order":6,"path":"sprites/spr_Player_IZQ/spr_Player_IZQ.yy",},
     {"name":"obj_opciones","order":2,"path":"objects/obj_opciones/obj_opciones.yy",},

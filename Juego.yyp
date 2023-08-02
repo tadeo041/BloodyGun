@@ -48,6 +48,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Armadura especial","folderPath":"folders/Sprites/Power_ups/Armadura especial.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Armadura","folderPath":"folders/Sprites/Power_ups/Armadura.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Vida","folderPath":"folders/Sprites/Power_ups/Vida.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Texto","folderPath":"folders/Objetos/Texto.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,

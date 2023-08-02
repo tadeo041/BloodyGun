@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "obj_musicacreditos",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":3,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
