@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_logo_gamemaker",
+    "path": "sprites/spr_logo_gamemaker/spr_logo_gamemaker.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
