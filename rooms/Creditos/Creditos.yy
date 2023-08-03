@@ -14,6 +14,8 @@
     {"name":"inst_151C32BD","path":"rooms/Creditos/Creditos.yy",},
     {"name":"inst_7A72FA49","path":"rooms/Creditos/Creditos.yy",},
     {"name":"inst_289FD469","path":"rooms/Creditos/Creditos.yy",},
+    {"name":"inst_28A8E09F","path":"rooms/Creditos/Creditos.yy",},
+    {"name":"inst_5C2C8B24","path":"rooms/Creditos/Creditos.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -25,6 +27,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6BAADA1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Programador","path":"objects/Obj_Programador/Obj_Programador.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_151C32BD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Hiram","path":"objects/Obj_Hiram/Obj_Hiram.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7A72FA49","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_Cesar","path":"objects/Obj_Cesar/Obj_Cesar.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":576.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_28A8E09F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_regresar","path":"objects/obj_regresar/obj_regresar.yy",},"properties":[],"rotation":0.0,"scaleX":0.58286774,"scaleY":0.52592593,"x":159.99998,"y":1440.0001,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5C2C8B24","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_musicacreditos","path":"objects/obj_musicacreditos/obj_musicacreditos.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":32.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Fondo","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

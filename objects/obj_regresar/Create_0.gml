@@ -1,1 +1,1 @@
-texto = "jugar"
+texto = "regresar"

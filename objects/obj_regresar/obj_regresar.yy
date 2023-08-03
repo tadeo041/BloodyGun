@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_opciones",
-    "path": "sprites/spr_opciones/spr_opciones.yy",
+    "name": "spr_regresar",
+    "path": "sprites/spr_regresar/spr_regresar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

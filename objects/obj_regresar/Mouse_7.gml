@@ -1,5 +1,5 @@
-if texto == "jugar"{
+if texto == "regresar"{
 
-	room_goto(nivel1)
+	room_goto(Menu)
 	audio_stop_all();
 }
