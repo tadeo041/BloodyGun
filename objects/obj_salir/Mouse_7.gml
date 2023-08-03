@@ -1,5 +1,4 @@
-if texto == "jugar"{
-
-	room_goto(nivel1)
-	audio_stop_all();
-}
+/// @DnDAction : YoYo Games.Game.End_Game
+/// @DnDVersion : 1
+/// @DnDHash : 3C82E5D1
+game_end();

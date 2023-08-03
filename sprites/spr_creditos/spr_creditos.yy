@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_creditos",
-  "bbox_bottom": 330,
-  "bbox_left": 381,
-  "bbox_right": 913,
-  "bbox_top": 207,
+  "bbox_bottom": 132,
+  "bbox_left": 17,
+  "bbox_right": 549,
+  "bbox_top": 9,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"216bf7ec-984c-4b94-82b7-10a6e4a4750b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f7b3e603-6c17-488b-9088-4ff42dd9a9e0",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 617,
+  "height": 145,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"907b89e8-8a05-43a6-800a-0dd3a09ff0d1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3c480a35-bfc9-4e91-87bb-206385669980","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"216bf7ec-984c-4b94-82b7-10a6e4a4750b","path":"sprites/spr_creditos/spr_creditos.yy",},},},"Disabled":false,"id":"3ddaaa5e-2694-484c-8fa6-79a34c17c19c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f7b3e603-6c17-488b-9088-4ff42dd9a9e0","path":"sprites/spr_creditos/spr_creditos.yy",},},},"Disabled":false,"id":"29e65940-5ecc-4b71-89c0-0250b65ed575","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1366,
+  "width": 556,
 }

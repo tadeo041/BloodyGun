@@ -4,7 +4,7 @@
   "name": "obj_salir",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_opciones",
-    "path": "sprites/spr_opciones/spr_opciones.yy",
+    "name": "spr_salir",
+    "path": "sprites/spr_salir/spr_salir.yy",
   },
   "spriteMaskId": null,
   "visible": true,

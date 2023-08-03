@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_jugar",
-  "bbox_bottom": 373,
-  "bbox_left": 471,
-  "bbox_right": 858,
-  "bbox_top": 228,
+  "bbox_bottom": 155,
+  "bbox_left": 6,
+  "bbox_right": 393,
+  "bbox_top": 10,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f0d7458f-82c6-4a56-a586-454b5d6a4c3b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cfbc5ef9-38f5-4cf5-b7ea-97b55ed2ec0d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 617,
+  "height": 167,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"943720ed-6ea5-46f0-aeea-a2520d16e409","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1c3e36d7-c0f0-4bbf-82a5-2efcb69a7b95","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f0d7458f-82c6-4a56-a586-454b5d6a4c3b","path":"sprites/spr_jugar/spr_jugar.yy",},},},"Disabled":false,"id":"12e33067-7bee-478e-9f1c-cf34fcaadc4c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"cfbc5ef9-38f5-4cf5-b7ea-97b55ed2ec0d","path":"sprites/spr_jugar/spr_jugar.yy",},},},"Disabled":false,"id":"ac650ee1-c67a-4ad3-ad45-f10d31a3aeb4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1366,
+  "width": 411,
 }
