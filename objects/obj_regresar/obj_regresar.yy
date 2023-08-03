@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_Diseiiador",
+  "name": "obj_regresar",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Roles",
-    "path": "folders/Objetos/Texto/Roles.yy",
+    "name": "Botones_texto",
+    "path": "folders/Objetos/Botones_texto.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_opciones",
+    "path": "sprites/spr_opciones/spr_opciones.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

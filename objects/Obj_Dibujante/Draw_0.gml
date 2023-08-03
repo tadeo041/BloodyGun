@@ -9,6 +9,6 @@ draw_set_font(fuen_roles);
 /// @DnDVersion : 1
 /// @DnDHash : 6BA84ECE
 /// @DnDArgument : "x" "636"
-/// @DnDArgument : "y" "96"
-/// @DnDArgument : "caption" ""Director""
-draw_text(636, 96, string("Director") + "");
+/// @DnDArgument : "y" "256"
+/// @DnDArgument : "caption" ""Dibujante""
+draw_text(636, 256, string("Dibujante") + "");

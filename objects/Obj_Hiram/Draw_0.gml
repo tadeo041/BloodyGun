@@ -8,7 +8,7 @@ draw_set_font(fuen_nombres);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 6BA84ECE
-/// @DnDArgument : "x" "736"
-/// @DnDArgument : "y" "448"
-/// @DnDArgument : "caption" ""Hiram ""
-draw_text(736, 448, string("Hiram ") + "");
+/// @DnDArgument : "x" "420"
+/// @DnDArgument : "y" "480"
+/// @DnDArgument : "caption" ""Hiram Noe Bobadilla Gonzalez ""
+draw_text(420, 480, string("Hiram Noe Bobadilla Gonzalez ") + "");

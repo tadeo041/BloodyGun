@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Botones_menu_texto",
-    "path": "folders/Objetos/Botones_menu_texto.yy",
+    "name": "Botones_texto",
+    "path": "folders/Objetos/Botones_texto.yy",
   },
   "parentObjectId": null,
   "persistent": false,

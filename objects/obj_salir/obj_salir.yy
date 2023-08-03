@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_creditos",
+  "name": "obj_salir",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_creditos",
-    "path": "sprites/spr_creditos/spr_creditos.yy",
+    "name": "spr_opciones",
+    "path": "sprites/spr_opciones/spr_opciones.yy",
   },
   "spriteMaskId": null,
   "visible": true,

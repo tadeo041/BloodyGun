@@ -1,14 +1,14 @@
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 01217BB4
-/// @DnDArgument : "font" "Suptitulo"
-/// @DnDSaveInfo : "font" "Suptitulo"
-draw_set_font(Suptitulo);
+/// @DnDArgument : "font" "fuen_roles"
+/// @DnDSaveInfo : "font" "fuen_roles"
+draw_set_font(fuen_roles);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 6BA84ECE
-/// @DnDArgument : "x" "736"
-/// @DnDArgument : "y" "338"
+/// @DnDArgument : "x" "636"
+/// @DnDArgument : "y" "416"
 /// @DnDArgument : "caption" ""Programador""
-draw_text(736, 338, string("Programador") + "");
+draw_text(636, 416, string("Programador") + "");
