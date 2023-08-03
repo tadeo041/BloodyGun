@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_titulo_menu",
+  "name": "Obj_Programador",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Menu",
-    "path": "folders/Objetos/Texto/Menu.yy",
+    "name": "Roles",
+    "path": "folders/Objetos/Texto/Roles.yy",
   },
   "parentObjectId": null,
   "persistent": false,
