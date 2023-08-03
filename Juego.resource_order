@@ -41,6 +41,8 @@
     {"name":"Armadura especial","order":2,"path":"folders/Sprites/Power_ups/Armadura especial.yy",},
     {"name":"Armadura","order":4,"path":"folders/Sprites/Power_ups/Armadura.yy",},
     {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
+    {"name":"Logos","order":6,"path":"folders/Sprites/Logos.yy",},
+    {"name":"Logo","order":7,"path":"folders/Objetos/Logo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Suptitulo","order":1,"path":"fonts/Suptitulo/Suptitulo.yy",},
