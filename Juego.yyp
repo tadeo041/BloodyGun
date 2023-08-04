@@ -79,6 +79,7 @@
     {"id":{"name":"spr_Pistola","path":"sprites/spr_Pistola/spr_Pistola.yy",},},
     {"id":{"name":"DCH","path":"sprites/DCH/DCH.yy",},},
     {"id":{"name":"scr_PlayerArma","path":"scripts/scr_PlayerArma/scr_PlayerArma.yy",},},
+    {"id":{"name":"spr_Titulo","path":"sprites/spr_Titulo/spr_Titulo.yy",},},
     {"id":{"name":"Control","path":"objects/Control/Control.yy",},},
     {"id":{"name":"Spr_zombie_Caminando_Izquierda","path":"sprites/Spr_zombie_Caminando_Izquierda/Spr_zombie_Caminando_Izquierda.yy",},},
     {"id":{"name":"Rprueba","path":"rooms/Rprueba/Rprueba.yy",},},
