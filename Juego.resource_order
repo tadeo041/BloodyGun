@@ -43,6 +43,7 @@
     {"name":"Titulo","order":5,"path":"folders/Sprites/Menu/Titulo.yy",},
     {"name":"Logo","order":6,"path":"folders/Sprites/Menu/Logo.yy",},
     {"name":"Botones","order":9,"path":"folders/Objetos/Botones.yy",},
+    {"name":"Titulo","order":10,"path":"folders/Objetos/Titulo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
