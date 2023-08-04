@@ -1,1 +1,7 @@
-texto = "jugar"
+texto = "salir"
+
+
+
+
+
+

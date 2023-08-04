@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Botones_texto",
-    "path": "folders/Objetos/Botones_texto.yy",
+    "name": "Botones",
+    "path": "folders/Objetos/Botones.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_salir",
-    "path": "sprites/spr_salir/spr_salir.yy",
+    "name": "spr_regresar",
+    "path": "sprites/spr_regresar/spr_regresar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

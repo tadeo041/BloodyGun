@@ -1,4 +1,9 @@
 if texto == "jugar"{
-	room_goto(nivel1)
+	room_goto(Recamara1_0)
 	audio_stop_all();
 }
+
+
+
+
+
