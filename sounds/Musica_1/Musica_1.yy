@@ -10,7 +10,7 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 260.57144,
+  "duration": 285.432,
   "parent": {
     "name": "Musica de fondo",
     "path": "folders/Sonidos/Musica de fondo.yy",
@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "Musica_1.mp3",
   "type": 0,
-  "volume": 0.7,
+  "volume": 0.2,
 }

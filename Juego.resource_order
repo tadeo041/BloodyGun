@@ -46,6 +46,7 @@
     {"name":"Titulo","order":10,"path":"folders/Objetos/Titulo.yy",},
     {"name":"Color del fondo","order":7,"path":"folders/Sprites/Menu/Color del fondo.yy",},
     {"name":"Musica","order":11,"path":"folders/Objetos/Musica.yy",},
+    {"name":"Objeto siguiendo","order":12,"path":"folders/Objetos/Objeto siguiendo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
@@ -58,6 +59,7 @@
     {"name":"Spr_zombie_Arriba_muerte","order":3,"path":"sprites/Spr_zombie_Arriba_muerte/Spr_zombie_Arriba_muerte.yy",},
     {"name":"spr_jugar","order":1,"path":"sprites/spr_jugar/spr_jugar.yy",},
     {"name":"spr_nombre_Hiram","order":2,"path":"sprites/spr_nombre_Hiram/spr_nombre_Hiram.yy",},
+    {"name":"obj_parar","order":1,"path":"objects/obj_parar/obj_parar.yy",},
     {"name":"spr_Pistola","order":2,"path":"sprites/spr_Pistola/spr_Pistola.yy",},
     {"name":"spr_Dibujante","order":1,"path":"sprites/spr_Dibujante/spr_Dibujante.yy",},
     {"name":"DCH","order":6,"path":"sprites/DCH/DCH.yy",},
