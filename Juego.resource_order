@@ -41,6 +41,7 @@
     {"name":"Nombres","order":3,"path":"folders/Sprites/Menu/Nombres.yy",},
     {"name":"Roles","order":4,"path":"folders/Sprites/Menu/Roles.yy",},
     {"name":"Titulo","order":5,"path":"folders/Sprites/Menu/Titulo.yy",},
+    {"name":"Logo","order":6,"path":"folders/Sprites/Menu/Logo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
@@ -49,6 +50,7 @@
     {"name":"Recamara1_0","order":2,"path":"rooms/Recamara1_0/Recamara1_0.yy",},
     {"name":"Spr_zombie_muerte","order":8,"path":"sprites/Spr_zombie_muerte/Spr_zombie_muerte.yy",},
     {"name":"spr_regresar","order":2,"path":"sprites/spr_regresar/spr_regresar.yy",},
+    {"name":"Creditos","order":4,"path":"rooms/Creditos/Creditos.yy",},
     {"name":"Spr_zombie_Arriba_muerte","order":3,"path":"sprites/Spr_zombie_Arriba_muerte/Spr_zombie_Arriba_muerte.yy",},
     {"name":"spr_jugar","order":1,"path":"sprites/spr_jugar/spr_jugar.yy",},
     {"name":"spr_nombre_Hiram","order":2,"path":"sprites/spr_nombre_Hiram/spr_nombre_Hiram.yy",},
@@ -75,6 +77,7 @@
     {"name":"spr_Player_RunArriba","order":4,"path":"sprites/spr_Player_RunArriba/spr_Player_RunArriba.yy",},
     {"name":"spr_Player_Run","order":3,"path":"sprites/spr_Player_Run/spr_Player_Run.yy",},
     {"name":"death","order":12,"path":"sprites/death/death.yy",},
+    {"name":"Menu","order":3,"path":"rooms/Menu/Menu.yy",},
     {"name":"Sprite20","order":21,"path":"sprites/Sprite20/Sprite20.yy",},
     {"name":"Sprite29","order":22,"path":"sprites/Sprite29/Sprite29.yy",},
     {"name":"spr_Player_RunIZQ","order":8,"path":"sprites/spr_Player_RunIZQ/spr_Player_RunIZQ.yy",},
