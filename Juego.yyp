@@ -134,11 +134,11 @@
     {"id":{"name":"spr_Zombie_Arriba","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Creditos","path":"rooms/Creditos/Creditos.yy",},},
     {"roomId":{"name":"Recamara1_0","path":"rooms/Recamara1_0/Recamara1_0.yy",},},
     {"roomId":{"name":"Recamara_1_1","path":"rooms/Recamara_1_1/Recamara_1_1.yy",},},
     {"roomId":{"name":"Rprueba","path":"rooms/Rprueba/Rprueba.yy",},},
-    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
-    {"roomId":{"name":"Creditos","path":"rooms/Creditos/Creditos.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
