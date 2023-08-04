@@ -85,7 +85,7 @@
     {"id":{"name":"DCH","path":"sprites/DCH/DCH.yy",},},
     {"id":{"name":"obj_jugar","path":"objects/obj_jugar/obj_jugar.yy",},},
     {"id":{"name":"scr_PlayerArma","path":"scripts/scr_PlayerArma/scr_PlayerArma.yy",},},
-    {"id":{"name":"Obj_creditos","path":"objects/Obj_creditos/Obj_creditos.yy",},},
+    {"id":{"name":"obj_creditos","path":"objects/obj_creditos/obj_creditos.yy",},},
     {"id":{"name":"spr_Titulo","path":"sprites/spr_Titulo/spr_Titulo.yy",},},
     {"id":{"name":"Control","path":"objects/Control/Control.yy",},},
     {"id":{"name":"Spr_zombie_Caminando_Izquierda","path":"sprites/Spr_zombie_Caminando_Izquierda/Spr_zombie_Caminando_Izquierda.yy",},},

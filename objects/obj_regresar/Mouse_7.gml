@@ -6,4 +6,4 @@ if texto == "regresar"{
 
 
 
-d
+

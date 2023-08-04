@@ -1,7 +1,0 @@
-texto = "salir"
-
-
-
-
-
-

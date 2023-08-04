@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_jugar",
-    "path": "sprites/spr_jugar/spr_jugar.yy",
+    "name": "spr_regresar",
+    "path": "sprites/spr_regresar/spr_regresar.yy",
   },
   "spriteMaskId": null,
   "visible": true,
