@@ -12,4 +12,39 @@ function scr_PlayerArma()
 	/// @DnDArgument : "expr" "point_direction(x, y, mouse_x +4, mouse_y +6)"
 	/// @DnDArgument : "var" "arma.angulo"
 	arma.angulo = point_direction(x, y, mouse_x +4, mouse_y +6);
+
+	/// @DnDAction : YoYo Games.Common.If_Expression
+	/// @DnDVersion : 1
+	/// @DnDHash : 557BC740
+	/// @DnDParent : 660B6E07
+	/// @DnDArgument : "expr" "mouse_check_button_pressed(mb_left)"
+	if(mouse_check_button_pressed(mb_left))
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 60935C06
+		/// @DnDInput : 2
+		/// @DnDParent : 557BC740
+		/// @DnDArgument : "expr" "x + lengthdir_x(16, arma.angulo)"
+		/// @DnDArgument : "expr_1" "y -2 +  lengthdir_y(16, arma.angulo)"
+		/// @DnDArgument : "var" "bx"
+		/// @DnDArgument : "var_1" "by"
+		bx = x + lengthdir_x(16, arma.angulo);
+		by = y -2 +  lengthdir_y(16, arma.angulo);
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 6E5C29D7
+		/// @DnDInput : 3
+		/// @DnDParent : 557BC740
+		/// @DnDArgument : "expr" "instance_create_layer(bx, by, "Jugador", obj_Bala)"
+		/// @DnDArgument : "expr_1" "5"
+		/// @DnDArgument : "expr_2" "arma.angulo"
+		/// @DnDArgument : "var" "bala"
+		/// @DnDArgument : "var_1" "bala.speed"
+		/// @DnDArgument : "var_2" "bala.direction"
+		bala = instance_create_layer(bx, by, "Jugador", obj_Bala);
+		bala.speed = 5;
+		bala.direction = arma.angulo;
+	}
 }

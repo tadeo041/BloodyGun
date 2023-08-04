@@ -122,9 +122,9 @@ function scr_PlayerMovimiento()
 		/// @DnDHash : 134291C6
 		/// @DnDParent : 24A6A19B
 		/// @DnDArgument : "imageind_relative" "1"
-		/// @DnDArgument : "spriteind" "spr_Player_RunSUO"
-		/// @DnDSaveInfo : "spriteind" "spr_Player_RunSUO"
-		sprite_index = spr_Player_RunSUO;
+		/// @DnDArgument : "spriteind" "spr_Player_RunISUO"
+		/// @DnDSaveInfo : "spriteind" "spr_Player_RunISUO"
+		sprite_index = spr_Player_RunISUO;
 		image_index += 0;
 	}
 
@@ -142,7 +142,7 @@ function scr_PlayerMovimiento()
 		/// @DnDArgument : "imageind_relative" "1"
 		/// @DnDArgument : "spriteind" "spr_Player_RunSUE"
 		/// @DnDSaveInfo : "spriteind" "spr_Player_RunSUE"
-		sprite_index = spr_Player_RunSUE;
+		sprite_index = spr_Player_RunDCH26;
 		image_index += 0;
 	}
 

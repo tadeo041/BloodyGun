@@ -13,10 +13,10 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e6ae4061-6747-46b0-87ca-fd52585c7552",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"516fc2b0-48f2-44ea-9b91-28273d420729",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"acdae6e4-280a-40ee-9688-9ed360ae9f5a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e6ae4061-6747-46b0-87ca-fd52585c7552",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"29d02ec8-9a8b-4217-80b6-2436a549d9f9",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"516fc2b0-48f2-44ea-9b91-28273d420729",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -57,10 +57,10 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e6ae4061-6747-46b0-87ca-fd52585c7552","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},},"Disabled":false,"id":"793e496c-0251-4214-8271-d56128f41f3c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"516fc2b0-48f2-44ea-9b91-28273d420729","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},},"Disabled":false,"id":"ea4908cd-4229-499c-b3b3-c244cbbda267","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"acdae6e4-280a-40ee-9688-9ed360ae9f5a","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},},"Disabled":false,"id":"184d8e88-7c60-47df-9f7a-3a461733d3d3","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"29d02ec8-9a8b-4217-80b6-2436a549d9f9","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},},"Disabled":false,"id":"f868f513-fda8-4a0c-8bed-b62d52ae2814","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"acdae6e4-280a-40ee-9688-9ed360ae9f5a","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},},"Disabled":false,"id":"184d8e88-7c60-47df-9f7a-3a461733d3d3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e6ae4061-6747-46b0-87ca-fd52585c7552","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},},"Disabled":false,"id":"793e496c-0251-4214-8271-d56128f41f3c","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"29d02ec8-9a8b-4217-80b6-2436a549d9f9","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},},"Disabled":false,"id":"f868f513-fda8-4a0c-8bed-b62d52ae2814","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"516fc2b0-48f2-44ea-9b91-28273d420729","path":"sprites/spr_Zombie_Arriba/spr_Zombie_Arriba.yy",},},},"Disabled":false,"id":"ea4908cd-4229-499c-b3b3-c244cbbda267","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
