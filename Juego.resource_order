@@ -36,6 +36,11 @@
     {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
     {"name":"SpriteCam","order":10,"path":"folders/Sprites/SpriteCam.yy",},
     {"name":"Tile Sets","order":20,"path":"folders/Tile Sets.yy",},
+    {"name":"Botones","order":1,"path":"folders/Sprites/Menu/Botones.yy",},
+    {"name":"Fondo de imagen","order":2,"path":"folders/Sprites/Menu/Fondo de imagen.yy",},
+    {"name":"Nombres","order":3,"path":"folders/Sprites/Menu/Nombres.yy",},
+    {"name":"Roles","order":4,"path":"folders/Sprites/Menu/Roles.yy",},
+    {"name":"Titulo","order":5,"path":"folders/Sprites/Menu/Titulo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
