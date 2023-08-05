@@ -13,7 +13,7 @@
   "duration": 185.07755,
   "parent": {
     "name": "Musica de fondo",
-    "path": "folders/Sonidos/Musica de fondo.yy",
+    "path": "folders/Sonidos/Musica/Musica de fondo.yy",
   },
   "preload": false,
   "sampleRate": 44100,

@@ -13,11 +13,11 @@
   "duration": 0.574694,
   "parent": {
     "name": "sonido_arma_principal",
-    "path": "folders/Sonidos/Musica de fondo/sonido_arma_principal.yy",
+    "path": "folders/Sonidos/Sonido disparo/sonido_arma_principal.yy",
   },
   "preload": false,
   "sampleRate": 44100,
   "soundFile": "Sound3.mp3",
   "type": 0,
-  "volume": 1.0,
+  "volume": 0.7,
 }

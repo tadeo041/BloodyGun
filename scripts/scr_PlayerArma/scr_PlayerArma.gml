@@ -32,6 +32,14 @@ function scr_PlayerArma()
 		bx = x + lengthdir_x(16, arma.angulo);
 		by = y -2 +  lengthdir_y(16, arma.angulo);
 	
+		/// @DnDAction : YoYo Games.Audio.Play_Audio
+		/// @DnDVersion : 1.1
+		/// @DnDHash : 7AFEB7E5
+		/// @DnDParent : 557BC740
+		/// @DnDArgument : "soundid" "Sound3"
+		/// @DnDSaveInfo : "soundid" "Sound3"
+		audio_play_sound(Sound3, 0, 0, 1.0, undefined, 1.0);
+	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 6E5C29D7
