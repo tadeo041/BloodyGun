@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Spr_zombie_Caminando_Derecha",
+  "name": "Spr_zombie_RUND",
   "bbox_bottom": 22,
   "bbox_left": 2,
   "bbox_right": 18,
@@ -36,7 +36,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Spr_zombie_Caminando_Derecha",
+    "name": "Spr_zombie_RUND",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -58,10 +58,10 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c4a72477-b1df-4d2e-935c-a0065fd353d4","path":"sprites/Spr_zombie_Caminando_Derecha/Spr_zombie_Caminando_Derecha.yy",},},},"Disabled":false,"id":"ef39a518-fa8d-467f-92bd-f38726ea6f3e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2ff18ab2-129c-43e6-8b40-c3f763becdb6","path":"sprites/Spr_zombie_Caminando_Derecha/Spr_zombie_Caminando_Derecha.yy",},},},"Disabled":false,"id":"381efd72-f1b6-4558-a001-4d52ac9d572b","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c05fea22-7629-47ef-9c9a-acef250f4d15","path":"sprites/Spr_zombie_Caminando_Derecha/Spr_zombie_Caminando_Derecha.yy",},},},"Disabled":false,"id":"3fc7a3e5-2513-4097-8d11-4502b3567b76","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8da77544-3a84-48c7-95fe-96aef859837b","path":"sprites/Spr_zombie_Caminando_Derecha/Spr_zombie_Caminando_Derecha.yy",},},},"Disabled":false,"id":"ce8e39dd-c47f-4db5-be23-ed36ee714467","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c4a72477-b1df-4d2e-935c-a0065fd353d4","path":"sprites/Spr_zombie_RUND/Spr_zombie_RUND.yy",},},},"Disabled":false,"id":"ef39a518-fa8d-467f-92bd-f38726ea6f3e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2ff18ab2-129c-43e6-8b40-c3f763becdb6","path":"sprites/Spr_zombie_RUND/Spr_zombie_RUND.yy",},},},"Disabled":false,"id":"381efd72-f1b6-4558-a001-4d52ac9d572b","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c05fea22-7629-47ef-9c9a-acef250f4d15","path":"sprites/Spr_zombie_RUND/Spr_zombie_RUND.yy",},},},"Disabled":false,"id":"3fc7a3e5-2513-4097-8d11-4502b3567b76","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8da77544-3a84-48c7-95fe-96aef859837b","path":"sprites/Spr_zombie_RUND/Spr_zombie_RUND.yy",},},},"Disabled":false,"id":"ce8e39dd-c47f-4db5-be23-ed36ee714467","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
