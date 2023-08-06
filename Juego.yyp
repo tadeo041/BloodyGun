@@ -95,7 +95,7 @@
     {"id":{"name":"obj_Cursor","path":"objects/obj_Cursor/obj_Cursor.yy",},},
     {"id":{"name":"spr_regresar","path":"sprites/spr_regresar/spr_regresar.yy",},},
     {"id":{"name":"Creditos","path":"rooms/Creditos/Creditos.yy",},},
-    {"id":{"name":"Spr_zombie_Arriba_muerte","path":"sprites/Spr_zombie_Arriba_muerte/Spr_zombie_Arriba_muerte.yy",},},
+    {"id":{"name":"Spr_zombie_MUEA","path":"sprites/Spr_zombie_MUEA/Spr_zombie_MUEA.yy",},},
     {"id":{"name":"spr_Director","path":"sprites/spr_Director/spr_Director.yy",},},
     {"id":{"name":"spr_jugar","path":"sprites/spr_jugar/spr_jugar.yy",},},
     {"id":{"name":"spr_nombre_Hiram","path":"sprites/spr_nombre_Hiram/spr_nombre_Hiram.yy",},},

@@ -69,7 +69,7 @@
     {"name":"Spr_zombie_muerte","order":8,"path":"sprites/Spr_zombie_muerte/Spr_zombie_muerte.yy",},
     {"name":"spr_regresar","order":2,"path":"sprites/spr_regresar/spr_regresar.yy",},
     {"name":"Creditos","order":4,"path":"rooms/Creditos/Creditos.yy",},
-    {"name":"Spr_zombie_Arriba_muerte","order":3,"path":"sprites/Spr_zombie_Arriba_muerte/Spr_zombie_Arriba_muerte.yy",},
+    {"name":"Spr_zombie_MUEA","order":3,"path":"sprites/Spr_zombie_MUEA/Spr_zombie_MUEA.yy",},
     {"name":"spr_jugar","order":1,"path":"sprites/spr_jugar/spr_jugar.yy",},
     {"name":"spr_nombre_Hiram","order":2,"path":"sprites/spr_nombre_Hiram/spr_nombre_Hiram.yy",},
     {"name":"obj_parar","order":1,"path":"objects/obj_parar/obj_parar.yy",},
