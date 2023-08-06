@@ -58,6 +58,7 @@
     {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
     {"name":"SpriteCam","order":10,"path":"folders/Sprites/SpriteCam.yy",},
     {"name":"Tile Sets","order":20,"path":"folders/Tile Sets.yy",},
+    {"name":"Bolita","order":15,"path":"folders/Objetos/Bolita.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
