@@ -79,7 +79,7 @@ function scr_PlayerMovimiento()
 		/// @DnDArgument : "imageind_relative" "1"
 		/// @DnDArgument : "spriteind" "spr_Player_Run"
 		/// @DnDSaveInfo : "spriteind" "spr_Player_Run"
-		sprite_index = spr_Player_Run;
+		sprite_index = spr_Player_RunABJ;
 		image_index += 0;
 	}
 
@@ -106,7 +106,7 @@ function scr_PlayerMovimiento()
 		/// @DnDArgument : "imageind_relative" "1"
 		/// @DnDArgument : "spriteind" "spr_Player_RunArriba"
 		/// @DnDSaveInfo : "spriteind" "spr_Player_RunArriba"
-		sprite_index = spr_Player_RunArriba;
+		sprite_index = spr_Player_RunARR;
 		image_index += 0;
 	}
 
@@ -124,7 +124,7 @@ function scr_PlayerMovimiento()
 		/// @DnDArgument : "imageind_relative" "1"
 		/// @DnDArgument : "spriteind" "spr_Player_RunISUO"
 		/// @DnDSaveInfo : "spriteind" "spr_Player_RunISUO"
-		sprite_index = spr_Player_RunISUO;
+		sprite_index = spr_Player_RunSUO;
 		image_index += 0;
 	}
 

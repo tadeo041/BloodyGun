@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "Sprite20",
-    "path": "sprites/Sprite20/Sprite20.yy",
+    "name": "spr_tCastle",
+    "path": "sprites/spr_tCastle/spr_tCastle.yy",
   },
   "spriteNoExport": true,
   "textureGroupId": {

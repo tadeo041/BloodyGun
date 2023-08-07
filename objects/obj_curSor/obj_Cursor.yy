@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_cursorpeque",
-    "path": "sprites/spr_cursorpeque/spr_cursorpeque.yy",
+    "name": "spr_Cursor1",
+    "path": "sprites/spr_Cursor1/spr_Cursor1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

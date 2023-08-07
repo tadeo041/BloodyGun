@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_maskplayer",
+  "name": "spr_MaskPlayer",
   "bbox_bottom": 5,
   "bbox_left": 0,
   "bbox_right": 5,
@@ -26,13 +26,13 @@
   "origin": 4,
   "parent": {
     "name": "MascaraJugador",
-    "path": "folders/Sprites/MascaraJugador.yy",
+    "path": "folders/Sprites/Colision/MascaraJugador.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_maskplayer",
+    "name": "spr_MaskPlayer",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"30f7fef6-8d5a-43e7-acf1-d372d19b2d10","path":"sprites/spr_maskplayer/spr_maskplayer.yy",},},},"Disabled":false,"id":"98d93bc3-ac11-4f65-8246-ed8b984f5aed","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"30f7fef6-8d5a-43e7-acf1-d372d19b2d10","path":"sprites/spr_MaskPlayer/spr_MaskPlayer.yy",},},},"Disabled":false,"id":"98d93bc3-ac11-4f65-8246-ed8b984f5aed","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

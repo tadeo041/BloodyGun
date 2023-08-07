@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Bloqueteleport",
-    "path": "folders/Sprites/Bloqueteleport.yy",
+    "path": "folders/Sprites/Colision/Bloqueteleport.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

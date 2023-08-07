@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "BloqueT",
-    "path": "folders/Objetos/BloqueT.yy",
+    "path": "folders/Objetos/Colisiones/BloqueT.yy",
   },
   "parentObjectId": null,
   "persistent": false,
