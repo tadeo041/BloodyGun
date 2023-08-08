@@ -60,6 +60,7 @@
     {"name":"SpriteCam","order":10,"path":"folders/Sprites/SpriteCam.yy",},
     {"name":"Tile Sets","order":20,"path":"folders/Tile Sets.yy",},
     {"name":"Tipografia","order":1,"path":"folders/Fuentes/Tipografia.yy",},
+    {"name":"Menu flotante","order":18,"path":"folders/Objetos/Menu flotante.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Player_RunNES","order":5,"path":"sprites/spr_Player_RunNES/spr_Player_RunNES.yy",},
