@@ -240,8 +240,8 @@
   "lineHeight": 95,
   "maintainGms1Font": false,
   "parent": {
-    "name": "Fuentes",
-    "path": "folders/Fuentes.yy",
+    "name": "Tipografia",
+    "path": "folders/Fuentes/Tipografia.yy",
   },
   "pointRounding": 0,
   "ranges": [
