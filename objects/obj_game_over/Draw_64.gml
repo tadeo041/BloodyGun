@@ -35,3 +35,9 @@ draw_set_font(Texto);
 /// @DnDArgument : "y" "300"
 /// @DnDArgument : "caption" ""Reiniciar con \"T\" o presione \"Esc\" para salir""
 draw_text(720, 300, string("Reiniciar con \"T\" o presione \"Esc\" para salir") + "");
+
+/// @DnDAction : YoYo Games.Drawing.Set_Alignment
+/// @DnDVersion : 1.1
+/// @DnDHash : 0F414B58
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);

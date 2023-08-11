@@ -29,7 +29,7 @@
   "origin": 0,
   "parent": {
     "name": "Zombi Kitao",
-    "path": "folders/Sprites/Enemigos/Zombi Compañeros/Zombi Kitao.yy",
+    "path": "folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Kitao.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

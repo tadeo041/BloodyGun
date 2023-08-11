@@ -33,7 +33,7 @@
   "origin": 4,
   "parent": {
     "name": "Zombi Manuel",
-    "path": "folders/Sprites/Enemigos/Zombi Compañeros/Zombi Manuel.yy",
+    "path": "folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Manuel.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

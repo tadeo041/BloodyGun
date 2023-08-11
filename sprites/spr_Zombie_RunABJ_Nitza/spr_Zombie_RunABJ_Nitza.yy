@@ -32,7 +32,7 @@
   "origin": 4,
   "parent": {
     "name": "Zombi Nitza",
-    "path": "folders/Sprites/Enemigos/Zombi Compañeros/Zombi Nitza.yy",
+    "path": "folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Nitza.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

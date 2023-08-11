@@ -34,7 +34,7 @@
   "origin": 4,
   "parent": {
     "name": "Zombi Victor",
-    "path": "folders/Sprites/Enemigos/Zombi Compañeros/Zombi Victor.yy",
+    "path": "folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Victor.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
