@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"BloqueT","folderPath":"folders/Objetos/Colisiones/BloqueT.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mapa","folderPath":"folders/Objetos/Colisiones/Mapa.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Cursor","folderPath":"folders/Objetos/Cursor.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemigos","folderPath":"folders/Objetos/Enemigos.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu flotante","folderPath":"folders/Objetos/Menu flotante.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Datos curiosos","folderPath":"folders/Objetos/Menu flotante/Datos curiosos.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Musica","folderPath":"folders/Objetos/Musica.yy",},
@@ -48,6 +49,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Personajes","folderPath":"folders/Scripts/Personajes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Scripts/Player.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Pruebas","folderPath":"folders/Scripts/Pruebas.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombies","folderPath":"folders/Scripts/Zombies.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Secuencias","folderPath":"folders/Secuencias.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sonidos","folderPath":"folders/Sonidos.yy",},
@@ -66,6 +68,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"MascaraJugador","folderPath":"folders/Sprites/Colision/MascaraJugador.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Cursor","folderPath":"folders/Sprites/Cursor.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemigos","folderPath":"folders/Sprites/Enemigos.yy",},
+<<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Compañero 6 \"A\"","folderPath":"folders/Sprites/Enemigos/Zombi Compañero 6 \"A\".yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Compañeros 3 \"A\"","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\".yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Arturo","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Arturo.yy",},
@@ -75,6 +78,13 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Manuel","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Manuel.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Nitza","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Nitza.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Victor","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros 3 \"A\"/Zombi Victor.yy",},
+=======
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Compañeros","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Kitaro","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros/Zombi Kitaro.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Manuel","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros/Zombi Manuel.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Nitza","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros/Zombi Nitza.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombi Victor","folderPath":"folders/Sprites/Enemigos/Zombi Compañeros/Zombi Victor.yy",},
+>>>>>>> c882861 (Se agrego IA del zombie y se solucionaron bugs xD)
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Zombie","folderPath":"folders/Sprites/Enemigos/Zombie.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Menu","folderPath":"folders/Sprites/Menu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Botones","folderPath":"folders/Sprites/Menu/Botones.yy",},
@@ -117,7 +127,6 @@
     {"id":{"name":"spr_colision_recamara1_0","path":"sprites/spr_colision_recamara1_0/spr_colision_recamara1_0.yy",},},
     {"id":{"name":"BloqueTeleport","path":"sprites/BloqueTeleport/BloqueTeleport.yy",},},
     {"id":{"name":"spr_Zombie_MrABJ_Nitza","path":"sprites/spr_Zombie_MrABJ_Nitza/spr_Zombie_MrABJ_Nitza.yy",},},
-    {"id":{"name":"Recamara_1_1","path":"rooms/Recamara_1_1/Recamara_1_1.yy",},},
     {"id":{"name":"Recamara1_0","path":"rooms/Recamara1_0/Recamara1_0.yy",},},
     {"id":{"name":"spr_MaskPlayer","path":"sprites/spr_MaskPlayer/spr_MaskPlayer.yy",},},
     {"id":{"name":"spr_Zombi_RunDCH_arturo","path":"sprites/spr_Zombi_RunDCH_arturo/spr_Zombi_RunDCH_arturo.yy",},},
@@ -132,7 +141,11 @@
     {"id":{"name":"spr_Zombie_RunARR_Manuel","path":"sprites/spr_Zombie_RunARR_Manuel/spr_Zombie_RunARR_Manuel.yy",},},
     {"id":{"name":"spr_nombre_Hiram","path":"sprites/spr_nombre_Hiram/spr_nombre_Hiram.yy",},},
     {"id":{"name":"obj_Bala","path":"objects/obj_Bala/obj_Bala.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"spr_his_inicio_1","path":"sprites/spr_his_inicio_1/spr_his_inicio_1.yy",},},
+=======
+    {"id":{"name":"obj_ZombieK","path":"objects/obj_ZombieK/obj_ZombieK.yy",},},
+>>>>>>> c882861 (Se agrego IA del zombie y se solucionaron bugs xD)
     {"id":{"name":"Musica_3","path":"sounds/Musica_3/Musica_3.yy",},},
     {"id":{"name":"obj_parar","path":"objects/obj_parar/obj_parar.yy",},},
     {"id":{"name":"spr_Logo_git","path":"sprites/spr_Logo_git/spr_Logo_git.yy",},},
@@ -152,9 +165,14 @@
     {"id":{"name":"Control","path":"objects/Control/Control.yy",},},
     {"id":{"name":"obj_dato_curioso_parrafo2","path":"objects/obj_dato_curioso_parrafo2/obj_dato_curioso_parrafo2.yy",},},
     {"id":{"name":"spr_Zombie_NES_Manuel","path":"sprites/spr_Zombie_NES_Manuel/spr_Zombie_NES_Manuel.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"spr_Zombi_NES_arturo","path":"sprites/spr_Zombi_NES_arturo/spr_Zombi_NES_arturo.yy",},},
     {"id":{"name":"spr_Zombi_RunARR_arturo","path":"sprites/spr_Zombi_RunARR_arturo/spr_Zombi_RunARR_arturo.yy",},},
     {"id":{"name":"spr_Zombik_runIZQ_Kitaro","path":"sprites/spr_Zombik_runIZQ_Kitaro/spr_Zombik_runIZQ_Kitaro.yy",},},
+=======
+    {"id":{"name":"spr_Zombie_RunIZQ","path":"sprites/spr_Zombie_RunIZQ/spr_Zombie_RunIZQ.yy",},},
+    {"id":{"name":"spr_ZombieK_RunIZQ","path":"sprites/spr_ZombieK_RunIZQ/spr_ZombieK_RunIZQ.yy",},},
+>>>>>>> c882861 (Se agrego IA del zombie y se solucionaron bugs xD)
     {"id":{"name":"spr_Zombie_RunNES","path":"sprites/spr_Zombie_RunNES/spr_Zombie_RunNES.yy",},},
     {"id":{"name":"spr_Logo_gamemaker","path":"sprites/spr_Logo_gamemaker/spr_Logo_gamemaker.yy",},},
     {"id":{"name":"spr_Zombie_MrIZQ_Nitza","path":"sprites/spr_Zombie_MrIZQ_Nitza/spr_Zombie_MrIZQ_Nitza.yy",},},
@@ -169,17 +187,22 @@
     {"id":{"name":"spr_Zombi_PrABj_arturo","path":"sprites/spr_Zombi_PrABj_arturo/spr_Zombi_PrABj_arturo.yy",},},
     {"id":{"name":"Camara","path":"objects/Camara/Camara.yy",},},
     {"id":{"name":"spr_Player_RunDCH","path":"sprites/spr_Player_RunDCH/spr_Player_RunDCH.yy",},},
-    {"id":{"name":"spr_Zombi_runDCH_Kitaro","path":"sprites/spr_Zombi_runDCH_Kitaro/spr_Zombi_runDCH_Kitaro.yy",},},
+    {"id":{"name":"spr_ZombieK_RunDCH","path":"sprites/spr_ZombieK_RunDCH/spr_ZombieK_RunDCH.yy",},},
     {"id":{"name":"spr_Cursor","path":"sprites/spr_Cursor/spr_Cursor.yy",},},
+    {"id":{"name":"scr_ZombieMovimiento","path":"scripts/scr_ZombieMovimiento/scr_ZombieMovimiento.yy",},},
     {"id":{"name":"obj_Nivel1","path":"objects/obj_Nivel1/obj_Nivel1.yy",},},
     {"id":{"name":"spr_Logo_gitHub","path":"sprites/spr_Logo_gitHub/spr_Logo_gitHub.yy",},},
     {"id":{"name":"spr_salir","path":"sprites/spr_salir/spr_salir.yy",},},
     {"id":{"name":"spr_Player_RunSUO","path":"sprites/spr_Player_RunSUO/spr_Player_RunSUO.yy",},},
     {"id":{"name":"obj_game_over","path":"objects/obj_game_over/obj_game_over.yy",},},
     {"id":{"name":"spr_Zombie_PrABj_Nitza","path":"sprites/spr_Zombie_PrABj_Nitza/spr_Zombie_PrABj_Nitza.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"Historieta_inicio","path":"rooms/Historieta_inicio/Historieta_inicio.yy",},},
     {"id":{"name":"spr_Zombie_PrABj","path":"sprites/spr_Zombie_PrABj/spr_Zombie_PrABj.yy",},},
     {"id":{"name":"spr_Zombi_PrABj_daniel","path":"sprites/spr_Zombi_PrABj_daniel/spr_Zombi_PrABj_daniel.yy",},},
+=======
+    {"id":{"name":"spr_Zombie_PrABJ","path":"sprites/spr_Zombie_PrABJ/spr_Zombie_PrABJ.yy",},},
+>>>>>>> c882861 (Se agrego IA del zombie y se solucionaron bugs xD)
     {"id":{"name":"spr_Bala","path":"sprites/spr_Bala/spr_Bala.yy",},},
     {"id":{"name":"spr_Zombi_MrlZQ_arturo","path":"sprites/spr_Zombi_MrlZQ_arturo/spr_Zombi_MrlZQ_arturo.yy",},},
     {"id":{"name":"spr_Zombi_MrARR_arturo","path":"sprites/spr_Zombi_MrARR_arturo/spr_Zombi_MrARR_arturo.yy",},},
@@ -189,7 +212,7 @@
     {"id":{"name":"spr_Player_RunABJ","path":"sprites/spr_Player_RunABJ/spr_Player_RunABJ.yy",},},
     {"id":{"name":"spr_fondo_negro","path":"sprites/spr_fondo_negro/spr_fondo_negro.yy",},},
     {"id":{"name":"BloqueT","path":"objects/BloqueT/BloqueT.yy",},},
-    {"id":{"name":"spr_Zombik_RunARB_Kitaro","path":"sprites/spr_Zombik_RunARB_Kitaro/spr_Zombik_RunARB_Kitaro.yy",},},
+    {"id":{"name":"spr_ZombieK_RunARR","path":"sprites/spr_ZombieK_RunARR/spr_ZombieK_RunARR.yy",},},
     {"id":{"name":"Titulo","path":"fonts/Titulo/Titulo.yy",},},
     {"id":{"name":"spr_Player_MR","path":"sprites/spr_Player_MR/spr_Player_MR.yy",},},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
@@ -203,6 +226,7 @@
     {"id":{"name":"spr_Zombie_RunABJ_Victor","path":"sprites/spr_Zombie_RunABJ_Victor/spr_Zombie_RunABJ_Victor.yy",},},
     {"id":{"name":"spr_Player_RunIZQ","path":"sprites/spr_Player_RunIZQ/spr_Player_RunIZQ.yy",},},
     {"id":{"name":"Musica_jugando","path":"objects/Musica_jugando/Musica_jugando.yy",},},
+    {"id":{"name":"obj_Zombie","path":"objects/obj_Zombie/obj_Zombie.yy",},},
     {"id":{"name":"spr_Zombie_RunDCH_Manuel","path":"sprites/spr_Zombie_RunDCH_Manuel/spr_Zombie_RunDCH_Manuel.yy",},},
     {"id":{"name":"spr_nombre_Tadeo","path":"sprites/spr_nombre_Tadeo/spr_nombre_Tadeo.yy",},},
     {"id":{"name":"spr_Zombie_MrDCH_Victor","path":"sprites/spr_Zombie_MrDCH_Victor/spr_Zombie_MrDCH_Victor.yy",},},
@@ -225,7 +249,6 @@
     {"id":{"name":"spr_Zombie_MrABj_Victor","path":"sprites/spr_Zombie_MrABj_Victor/spr_Zombie_MrABj_Victor.yy",},},
     {"id":{"name":"spr_Zombie_MrDCH","path":"sprites/spr_Zombie_MrDCH/spr_Zombie_MrDCH.yy",},},
     {"id":{"name":"spr_Player_PrDCH","path":"sprites/spr_Player_PrDCH/spr_Player_PrDCH.yy",},},
-    {"id":{"name":"spr_Zombie_NES","path":"sprites/spr_Zombie_NES/spr_Zombie_NES.yy",},},
     {"id":{"name":"spr_Zombie_RunNES_Manuel","path":"sprites/spr_Zombie_RunNES_Manuel/spr_Zombie_RunNES_Manuel.yy",},},
     {"id":{"name":"spr_Zombie_NES_Nitza","path":"sprites/spr_Zombie_NES_Nitza/spr_Zombie_NES_Nitza.yy",},},
     {"id":{"name":"spr_Zombi_RunDCH_daniel","path":"sprites/spr_Zombi_RunDCH_daniel/spr_Zombi_RunDCH_daniel.yy",},},
@@ -239,8 +262,9 @@
     {"id":{"name":"spr_Zombie_RunDCH_Nitza","path":"sprites/spr_Zombie_RunDCH_Nitza/spr_Zombie_RunDCH_Nitza.yy",},},
     {"id":{"name":"spr_armadura_especial","path":"sprites/spr_armadura_especial/spr_armadura_especial.yy",},},
     {"id":{"name":"spr_Zombie_RunDCH_Victor","path":"sprites/spr_Zombie_RunDCH_Victor/spr_Zombie_RunDCH_Victor.yy",},},
+    {"id":{"name":"spr_Zombie_RunNOS","path":"sprites/spr_Zombie_RunNOS/spr_Zombie_RunNOS.yy",},},
     {"id":{"name":"spr_Zombie_RunABJ","path":"sprites/spr_Zombie_RunABJ/spr_Zombie_RunABJ.yy",},},
-    {"id":{"name":"spr_Zombik_runABJ_Kitaro","path":"sprites/spr_Zombik_runABJ_Kitaro/spr_Zombik_runABJ_Kitaro.yy",},},
+    {"id":{"name":"spr_ZombieK_RunABJ","path":"sprites/spr_ZombieK_RunABJ/spr_ZombieK_RunABJ.yy",},},
     {"id":{"name":"Sonido_disparo_armapricipal","path":"objects/Sonido_disparo_armapricipal/Sonido_disparo_armapricipal.yy",},},
     {"id":{"name":"spr_Zombie_MrARR_Manuel","path":"sprites/spr_Zombie_MrARR_Manuel/spr_Zombie_MrARR_Manuel.yy",},},
     {"id":{"name":"pantalla_carga_nivel_1","path":"rooms/pantalla_carga_nivel_1/pantalla_carga_nivel_1.yy",},},
@@ -257,9 +281,12 @@
     {"roomId":{"name":"pantalla_carga_nivel_1","path":"rooms/pantalla_carga_nivel_1/pantalla_carga_nivel_1.yy",},},
     {"roomId":{"name":"Recamara1_0","path":"rooms/Recamara1_0/Recamara1_0.yy",},},
     {"roomId":{"name":"Creditos","path":"rooms/Creditos/Creditos.yy",},},
+<<<<<<< HEAD
     {"roomId":{"name":"Recamara_1_1","path":"rooms/Recamara_1_1/Recamara_1_1.yy",},},
     {"roomId":{"name":"pantalla_carga_nivel_2","path":"rooms/pantalla_carga_nivel_2/pantalla_carga_nivel_2.yy",},},
     {"roomId":{"name":"pantalla_carga_nivel_3","path":"rooms/pantalla_carga_nivel_3/pantalla_carga_nivel_3.yy",},},
+=======
+>>>>>>> c882861 (Se agrego IA del zombie y se solucionaron bugs xD)
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

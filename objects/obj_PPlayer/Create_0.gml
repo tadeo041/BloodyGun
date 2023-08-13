@@ -3,11 +3,11 @@
 /// @DnDHash : 3E8D4566
 /// @DnDInput : 2
 /// @DnDArgument : "expr" ""Pr""
-/// @DnDArgument : "expr_1" ""DCH""
+/// @DnDArgument : "expr_1" ""ABJ""
 /// @DnDArgument : "var" "accion"
 /// @DnDArgument : "var_1" "cara"
 accion = "Pr";
-cara = "DCH";
+cara = "ABJ";
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
