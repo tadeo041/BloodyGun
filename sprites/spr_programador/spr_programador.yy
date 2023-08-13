@@ -26,7 +26,7 @@
   "origin": 9,
   "parent": {
     "name": "Roles",
-    "path": "folders/Sprites/Menu/Roles.yy",
+    "path": "folders/Sprites/Creditos/Roles.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

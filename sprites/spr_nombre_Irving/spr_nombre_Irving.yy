@@ -26,7 +26,7 @@
   "origin": 9,
   "parent": {
     "name": "Nombres",
-    "path": "folders/Sprites/Menu/Nombres.yy",
+    "path": "folders/Sprites/Creditos/Nombres.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

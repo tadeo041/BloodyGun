@@ -26,7 +26,7 @@
   "origin": 9,
   "parent": {
     "name": "Logo",
-    "path": "folders/Sprites/Menu/Logo.yy",
+    "path": "folders/Sprites/Creditos/Logo.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
