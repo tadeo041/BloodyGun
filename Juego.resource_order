@@ -75,6 +75,12 @@
     {"name":"Vida","order":3,"path":"folders/Sprites/Power_ups/Vida.yy",},
     {"name":"SpriteCam","order":10,"path":"folders/Sprites/SpriteCam.yy",},
     {"name":"Tile Sets","order":20,"path":"folders/Tile Sets.yy",},
+    {"name":"Historieta","order":10,"path":"folders/Rooms/Historieta.yy",},
+    {"name":"Final","order":1,"path":"folders/Rooms/Historieta/Final.yy",},
+    {"name":"Inicio","order":2,"path":"folders/Rooms/Historieta/Inicio.yy",},
+    {"name":"Historieta","order":12,"path":"folders/Sprites/Historieta.yy",},
+    {"name":"Inicio","order":1,"path":"folders/Sprites/Historieta/Inicio.yy",},
+    {"name":"Final","order":2,"path":"folders/Sprites/Historieta/Final.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_Zombie_PrABj_Manuel","order":5,"path":"sprites/spr_Zombie_PrABj_Manuel/spr_Zombie_PrABj_Manuel.yy",},
