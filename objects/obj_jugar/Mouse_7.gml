@@ -1,5 +1,5 @@
 if texto == "jugar"{
-	room_goto(Recamara1_0)
+	room_goto(Historieta_inicio)
 	audio_stop_all();
 }
 

@@ -248,10 +248,10 @@
     {"id":{"name":"spr_Zombie_RunARR","path":"sprites/spr_Zombie_RunARR/spr_Zombie_RunARR.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Historieta_inicio","path":"rooms/Historieta_inicio/Historieta_inicio.yy",},},
     {"roomId":{"name":"pantalla_carga_nivel_1","path":"rooms/pantalla_carga_nivel_1/pantalla_carga_nivel_1.yy",},},
     {"roomId":{"name":"Recamara1_0","path":"rooms/Recamara1_0/Recamara1_0.yy",},},
-    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Creditos","path":"rooms/Creditos/Creditos.yy",},},
     {"roomId":{"name":"Recamara_1_1","path":"rooms/Recamara_1_1/Recamara_1_1.yy",},},
     {"roomId":{"name":"pantalla_carga_nivel_2","path":"rooms/pantalla_carga_nivel_2/pantalla_carga_nivel_2.yy",},},
